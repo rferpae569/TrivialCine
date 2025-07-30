@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05fcab6ba864d784581ddaa6b087a3af, type: 3}
+  m_Name: Question 25
+  m_EditorClassIdentifier: 
+  questionId: 126
+  enunciate: "\xBFQu\xE9 personaje canta \n\u201CLo m\xE1s vital\u201D en \n\"El
+    libro de la selva\"?"
+  answers:
+  - Bagheera
+  - Baloo
+  - Kaa
+  - Mowgli
+  correctAnswer: 1
+  questionCategorie: 3

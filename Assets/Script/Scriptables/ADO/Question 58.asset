@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05fcab6ba864d784581ddaa6b087a3af, type: 3}
+  m_Name: Question 58
+  m_EditorClassIdentifier: 
+  questionId: 260
+  enunciate: "\xBFQu\xE9 director espa\xF1ol gan\xF3 el \xD3scar \na Mejor Pel\xEDcula
+    Extranjera con \nTodo sobre mi madre?"
+  answers:
+  - "Pedro Almod\xF3var"
+  - "Alejandro Amen\xE1bar"
+  - Juan Antonio Bayona
+  - Fernando Trueba
+  correctAnswer: 0
+  questionCategorie: 1

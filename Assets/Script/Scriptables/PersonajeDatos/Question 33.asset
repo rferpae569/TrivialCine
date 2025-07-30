@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05fcab6ba864d784581ddaa6b087a3af, type: 3}
+  m_Name: Question 33
+  m_EditorClassIdentifier: 
+  questionId: 134
+  enunciate: "\xBFQu\xE9 c\xF3digo necesita descifrar \nSophie Neveu en \n\"El c\xF3digo
+    Da Vinci\"?"
+  answers:
+  - El de Newton
+  - El de Leonardo
+  - "El c\xF3digo de Fibonacci"
+  - "El c\xF3digo Silas"
+  correctAnswer: 2
+  questionCategorie: 3

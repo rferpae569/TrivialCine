@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05fcab6ba864d784581ddaa6b087a3af, type: 3}
+  m_Name: Question 24
+  m_EditorClassIdentifier: 
+  questionId: 24
+  enunciate: "\xBFQu\xE9 pel\xEDcula de terror fue dirigida \npor Sam Raimi y protagonizada
+    \npor Bruce Campbell?"
+  answers:
+  - La Matanza de Texas
+  - Hellraiser
+  - "Posesi\xF3n infernal"
+  - Creepshow
+  correctAnswer: 2
+  questionCategorie: 2
